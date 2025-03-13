@@ -17,11 +17,8 @@ In this phase of our interstellar mission, you will be tasked with deploying the
 ## Success Criteria
 
 - Each crew member has deployed a Virtual Machine using Terraform.
+- You practiced change management as described above
 - Terraform code of the virtual machine is available on your team GitHub.
-
-#### If you have extra time
-
-- As an optional but highly recommended task, demonstrate your prowess in security by storing and retrieving the VM's password using Azure Key Vault. This step is crucial in safeguarding your spacecraft's core systems from unauthorized access. The Azure Key Vault will act as your encrypted command locker, ensuring that only authorized personnel can access sensitive information. In you deployed VM with ssh key, just change the authentication method to password (example [here](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-terraform#implement-the-terraform-code)).
 
 ## Learning Resources
 
